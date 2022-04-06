@@ -1,0 +1,8 @@
+TAREA 1
+El Seleccionado de futbol Chileno, necesita un diseño de página Web innovador, para esto 
+se hará un concurso y se seleccionaran los 3 mejores diseños. Por último, se hará una votación 
+de los estudiantes y el que obtenga la mayor votación será el ganador.
+El Diseño debe tener Encabezado, Sección, Artículos, Columnas, Pie de páginas, Comentarios.
+Videos de los Futbolistas (no todos), Imágenes
+También deben utilizar las tablas, las listas, enlaces de las páginas de los futbolistas.
+Hacer la página también para dispositivos móviles
