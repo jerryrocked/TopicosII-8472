@@ -5,4 +5,4 @@
  
  Daniel Murakami, 20532093-8, d.murakamidaz@uandresbello.edu, 8472
 
-francisco Valdés, 19950817-2, f.valdsmartnez@uandresbello.edu , 8472
+Francisco Valdés, 19950817-2, f.valdsmartnez@uandresbello.edu , 8472
