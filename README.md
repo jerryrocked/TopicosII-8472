@@ -5,4 +5,6 @@
  
  Daniel Murakami, 20532093-8, d.murakamidaz@uandresbello.edu, 8472
 
-Francisco Valdés, 19950817-2, f.valdsmartnez@uandresbello.edu , 8472
+ Francisco Valdés, 19950817-2, f.valdsmartnez@uandresbello.edu , 8472
+
+ Cristian San Martín, 20381164-0, c.sanmartnjara@uandresbello.edu, 8472
