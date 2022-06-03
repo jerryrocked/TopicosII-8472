@@ -22,3 +22,5 @@ Rafael Zavala Viguera, 20285989-5, r.zavalaviguera@uandresbello.edu, 8472
 Nicolás Troncoso Gatica, 20729486-1, n.troncosogatica@uandresbello.edu, 8472
 
 Alejandro Grimminck, 19.893.756-8, a.grimminckfernndez@uandresbello.edu, 8472
+
+Luis Cruz Flores, 20.419.925-6, l.cruzflores@uandresbello.edu, 8472
