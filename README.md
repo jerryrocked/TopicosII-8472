@@ -16,3 +16,5 @@
 Fabian Moreno Castillo, 20224349-5, fabianmoreno710@gmail.com, 8472
 
 Rafael Zavala Viguera, 20285989-5, r.zavalaviguera@uandresbello.edu, 8472
+
+ Nicolás Baeza González, 20189007-1, n.baezagonzlez@uandresbello.edu , 8472
