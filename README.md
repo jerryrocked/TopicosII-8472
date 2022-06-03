@@ -12,3 +12,5 @@
  Benjamín Pinto Ávila, 21284785-2, b.pintovila@uandresbello.edu, 8472
  
  Jose Carvallo Astorga, 20243180-1, j.carvalloastorga@uandresbello.edu, 8472
+
+Fabian Moreno Castillo, 20224349-5, fabianmoreno710@gmail.com, 8472
