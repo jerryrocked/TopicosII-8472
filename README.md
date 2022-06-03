@@ -24,3 +24,5 @@ Nicolás Troncoso Gatica, 20729486-1, n.troncosogatica@uandresbello.edu, 8472
 Alejandro Grimminck, 19.893.756-8, a.grimminckfernndez@uandresbello.edu, 8472
 
 Luis Cruz Flores, 20.419.925-6, l.cruzflores@uandresbello.edu, 8472
+
+Matías Aravena, 19.310.170-4, m.aravenafonseca@uandresbello.edu, 8472
