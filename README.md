@@ -10,3 +10,5 @@
  Cristian San Martín, 20381164-0, c.sanmartnjara@uandresbello.edu, 8472
 
  Benjamín Pinto Ávila, 21284785-2, b.pintovila@uandresbello.edu, 8472
+ 
+ Jose Carvallo Astorga, 20243180-1, j.carvalloastorga@uandresbello.edu, 8472
