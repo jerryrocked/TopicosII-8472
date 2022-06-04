@@ -26,3 +26,5 @@ Alejandro Grimminck, 19.893.756-8, a.grimminckfernndez@uandresbello.edu, 8472
 Luis Cruz Flores, 20.419.925-6, l.cruzflores@uandresbello.edu, 8472
 
 Matías Aravena, 19.310.170-4, m.aravenafonseca@uandresbello.edu, 8472
+
+Jean Contreras, 19.548.075-3, j.contrerasmanriquez@uandresbello.edu, 8472
