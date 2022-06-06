@@ -35,3 +35,5 @@ Jean Contreras, 19.548.075-3, j.contrerasmanriquez@uandresbello.edu, 8472
 Cristobal Garrido, 20.474.124-7, c.garridoleiva1@uandresbello.edu, 8472
 
 Guillermo Castillo, 19.515.637-9, g.castillojara@uandresbello.edu, 8472
+
+Alex Aranguiz, 19.997.381-9, a.arnguizacua@uandresbello.edu, 8472
