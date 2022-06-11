@@ -39,3 +39,6 @@ Guillermo Castillo, 19.515.637-9, g.castillojara@uandresbello.edu, 8472
 Alex Aranguiz, 19.997.381-9, a.arnguizacua@uandresbello.edu, 8472
 
 Xiomar Lopez, 26.439.229-2 (L00007302). x.lopeztorres@uandresbello.edu, 8472
+
+Martín Moore, 21.125.666-4, m.mooreirrazaval@uandresbello.edu, 8472
+
