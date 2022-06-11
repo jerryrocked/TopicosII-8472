@@ -37,3 +37,5 @@ Cristobal Garrido, 20.474.124-7, c.garridoleiva1@uandresbello.edu, 8472
 Guillermo Castillo, 19.515.637-9, g.castillojara@uandresbello.edu, 8472
 
 Alex Aranguiz, 19.997.381-9, a.arnguizacua@uandresbello.edu, 8472
+
+Xiomar Lopez, 26.439.229-2 (L00007302). x.lopeztorres@uandresbello.edu, 8472
